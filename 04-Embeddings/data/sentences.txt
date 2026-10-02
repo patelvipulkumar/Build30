@@ -1,0 +1,13 @@
+# topic | sentence
+cats | The cat sat on the mat.
+cats | A kitten is playing with a toy.
+cats | My cat loves to nap in the sun.
+dogs | A puppy is chasing a ball in the park.
+dogs | The dog barked at the mailman.
+money | The bank raised its interest rate today.
+money | Inflation pushed prices higher this year.
+money | I paid my credit card bill on time.
+cooking | Boil the pasta for ten minutes.
+cooking | Add salt to the soup before serving.
+tech | The server crashed after the deployment.
+tech | Restart the API service to clear the error.
